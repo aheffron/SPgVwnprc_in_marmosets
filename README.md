@@ -1,4 +1,4 @@
-# SPgVwnprc_in_marmosets
+# SOBV in marmosets
 
 To accompany the manuscript entitled: "Discovery of a novel simian pegivirus in common marmosets (_Callithrix jacchus_) with lymphocytic enteritis "
 
