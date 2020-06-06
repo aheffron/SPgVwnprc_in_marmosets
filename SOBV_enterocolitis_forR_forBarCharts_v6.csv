@@ -1,0 +1,11 @@
+enteritis_type,pegi_status,percent_marm_population
+Enteritis or colitis,Positive,81.82
+Enteritis or colitis,Negative,80.77
+Enterocolitis,Positive,30.3
+Enterocolitis,Negative,51.92
+Enteritis,Positive,60.61
+Enteritis,Negative,65.38
+Colitis,Positive,51.52
+Colitis,Negative,67.31
+No disease,Positive,18.18
+No disease,Negative,19.23
