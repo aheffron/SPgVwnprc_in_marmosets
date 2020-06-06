@@ -24,9 +24,9 @@ All required dependencies will be imported into the R scripts as they run.
 ### To create figures 
 **Figure 1**: Using MEGA6.06 software, align the sequences for the protein sequences for the accession numbers listed in the csv file _tree_accession_numbers.csv_ (using the default settings) and create a maximum likelihood tree.
 
-**Figure 2**: Use Simplot version 3.5.1 (https://sray.med.som.jhmi.edu/SCRoftware/simplot/) with the sequences listed in the file []. Input the protein sequence for SOBV-1 into the "SEQUENCE SEARCH" option at http://pfam.xfam.org/ to find the putative proteins for SOBV. 
+**Figure 2**: Use Simplot version 3.5.1 (https://sray.med.som.jhmi.edu/SCRoftware/simplot/) with the sequences for the accession numbers listed in the csv file _simplot_accession_numbers.csv_. Input the protein sequence for SOBV-1 into the "SEQUENCE SEARCH" option at http://pfam.xfam.org/ to determine the putative proteins for SOBV. 
 
-**Figure 3**: Use MEGA6.06 software and the protein sequences for the accession numbers listed in the csv file _similarity_matrix_accession_numbers_ and create a similarity plot.
+**Figure 3**: Use Geneious 2020.1.2 and the protein sequences for the accession numbers listed in the csv file _similarity_matrix_accession_numbers_ and create a similarity plot.
 
 **Figure 4**: Download the R script _SOBV_sex_age_v1.R_ and input csv files _SOBV_age_sex_forR_v1.csv_ and _SOBV_age_sex_forR_forBarCharts_v1.csv_. Run the R script.
 
