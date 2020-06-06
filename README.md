@@ -28,9 +28,9 @@ All required dependencies will be imported into the R scripts as they run.
 
 **Figure 3**: Use MEGA6.06 software
 
-**Figure 4**: 
+**Figure 4**: Download the R script _SOBV_sex_age_v1.R_ and input csv files _SOBV_age_sex_forR_v1.csv_ and _SOBV_age_sex_forR_forBarCharts_v1.csv_. Run the R script.
 
-**Figure 6**: Download the R script _SOBV_sex_enterocolitis_v6.R_ and input csv files _Enterocolitis_and_SOBV_data_forR_v3.csv_ and _SOBV_enterocolitis_forR_forBarCharts_v6.csv_. Run the R scripts. 
+**Figure 6**: Download the R script _SOBV_sex_enterocolitis_v6.R_ and input csv files _Enterocolitis_and_SOBV_data_forR_v3.csv_ and _SOBV_enterocolitis_forR_forBarCharts_v6.csv_. Run the R script. 
 
 ## Output
 The scripts above generate plots that can be saved in various image file formats.  
