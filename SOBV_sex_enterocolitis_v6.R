@@ -1,5 +1,5 @@
 ## This script performs a logistic regression analysis for SOBV's association with lymphocytic enterocolitis,
-# and also of .
+# and  also of the association of sex with lymphocytic enterocolitis (Part 1).
 # It also creates a bar chart showing the percentage of animals postiive or negative for SOBV which developed 
 # lymphocytic enterocolitis or variants of the disease (Part 2).
 
